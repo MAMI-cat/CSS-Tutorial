@@ -3,3 +3,6 @@ h1 {
   color: blue;
 }
 /* p要素の文字色を緑色で宣言 */
+p {
+  color: green;
+}

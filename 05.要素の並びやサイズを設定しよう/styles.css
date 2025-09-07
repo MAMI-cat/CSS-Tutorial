@@ -6,6 +6,9 @@
 /* todayクラスに適用するスタイル */
 .today {
   font-size: 20px;
+span {
+  background-color: #FFC0CB;
+}
 /* temperatureクラスに適用するスタイル */
 
 /* humidityクラスに適用するスタイル */

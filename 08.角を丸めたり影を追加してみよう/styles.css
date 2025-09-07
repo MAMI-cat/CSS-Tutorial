@@ -55,3 +55,6 @@ div {
   border-radius: 0 0 20px 20px;
 }
 /* main要素内にスタイルを適用 */
+main {
+  overflow: auto;
+}

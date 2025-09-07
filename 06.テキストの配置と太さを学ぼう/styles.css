@@ -17,3 +17,8 @@ h3 {
   text-align: center;
 }
 /* p要素に適用するスタイル */
+p {
+  color: white;
+  background-color: #3776AB;
+  text-align: center;
+}

@@ -1,8 +1,6 @@
 .humidity {
   margin-left: 30px;
 }
-
-
 /* todayクラスに適用するスタイル */
 .today {
   font-size: 20px;
@@ -35,3 +33,6 @@ span {
   height: 20px;
 }
 /* img要素に適用するスタイル */
+img {
+  display: block;
+}

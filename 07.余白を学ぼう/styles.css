@@ -7,3 +7,10 @@ p {
   background-color: #00008b;
   color: white;
 }
+p {
+  display: inline-block;
+  background-color: #00008b;
+  color: white;
+  width: 160px;
+  text-align: center;
+}

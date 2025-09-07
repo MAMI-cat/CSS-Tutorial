@@ -42,7 +42,10 @@ main {
 
 
 /* li要素にスタイルを適用 */
-
+li {
+  border: #192F60 1px solid;
+  border-radius: 8px;
+}
 /* header要素にスタイルを適用 */
 
 /* div要素にスタイルを適用 */

@@ -9,11 +9,20 @@
 span {
   background-color: #FFC0CB;
 }
-/* temperatureクラスに適用するスタイル */
 span {
   background-color: #FFC0CB;
   display: inline-block;
   height: 28px;
+}  
+/* temperatureクラスに適用するスタイル */
+/* temperatureクラスに適用するスタイル */
+.temperature {
+  background-color: #FFD8B2;
+}
+
+/* humidityクラスに適用するスタイル */
+.humidity {
+  background-color: #ADD8E6;
 }
 /* humidityクラスに適用するスタイル */
 

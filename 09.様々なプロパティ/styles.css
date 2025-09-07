@@ -44,3 +44,7 @@ img {
   object-fit: cover;
 }
 /* header要素にスタイルを適用 */
+header {
+  position: sticky;
+  top: 0;
+}

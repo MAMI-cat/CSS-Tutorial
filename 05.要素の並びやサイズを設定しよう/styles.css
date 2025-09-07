@@ -8,17 +8,10 @@
   font-size: 20px;
 span {
   background-color: #FFC0CB;
-}
-span {
-  background-color: #FFC0CB;
   display: inline-block;
   height: 28px;
 }  
 /* temperatureクラスに適用するスタイル */
-.temperature {
-  background-color: #FFD8B2;
-  
-}
 .temperature {
   background-color: #FFD8B2;
   display: inline-block;.humidity {
@@ -34,11 +27,6 @@ span {
   width: 40px;
   height: 20px;
 }
-
-}
-/* humidityクラスに適用するスタイル */
-
-/* img要素に適用するスタイル */
 /* temperatureクラスに適用するスタイル */
 .temperature {
   background-color: #FFD8B2;
@@ -46,3 +34,4 @@ span {
   width: 40px;
   height: 20px;
 }
+/* img要素に適用するスタイル */

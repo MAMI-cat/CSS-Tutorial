@@ -22,3 +22,12 @@ p {
   text-align: center;
   padding: 10px 0;
 }
+p {
+  display: inline-block;
+  background-color: #00008b;
+  color: white;
+  width: 160px;
+  text-align: center;
+  padding: 10px 0;
+  margin-right: 20px;
+}

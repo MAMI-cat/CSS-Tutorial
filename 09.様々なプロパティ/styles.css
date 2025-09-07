@@ -7,6 +7,10 @@ header {
   text-align: center;
   background-color: darkblue;
   color: white;
+  position: sticky;
+  top: 0;
+  /* header要素にopacityプロパティを追加 */
+  opacity: 0.9;
 }
 
 main {
@@ -47,4 +51,11 @@ img {
 header {
   position: sticky;
   top: 0;
+}
+
+header {
+  position: sticky;
+  top: 0;
+  /* header要素にopacityプロパティを追加 */
+  opacity: 0.9;
 }

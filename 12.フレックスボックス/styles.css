@@ -57,5 +57,10 @@ ul {
   gap: 24px;
 }
 /* div要素にスタイルを適用 */
-
+div {
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  line-height: 200px;
+}
 /* main要素にスタイルを適用 */

@@ -44,7 +44,12 @@ body {
   gap: 50px;
 }
 /* header要素にスタイルを適用 */
-
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+}
 /* ul要素にスタイルを適用 */
 
 /* div要素にスタイルを適用 */

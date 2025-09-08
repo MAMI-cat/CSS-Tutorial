@@ -51,7 +51,11 @@ header {
   align-items: flex-end;
 }
 /* ul要素にスタイルを適用 */
-
+ul {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+}
 /* div要素にスタイルを適用 */
 
 /* main要素にスタイルを適用 */
